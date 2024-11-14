@@ -1,3 +1,4 @@
+![Example-of-ELIZA-ELIZA-a-chatbot-was-designed-by-Joseph-Weizenbaum-to-imitate-a](https://github.com/user-attachments/assets/cd48c501-6745-4182-85ae-dfe99ed9766c)
 ---
 
 # ELIZA - A Virtual Therapist
